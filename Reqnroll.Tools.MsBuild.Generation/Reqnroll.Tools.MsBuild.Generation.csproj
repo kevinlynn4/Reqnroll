@@ -30,7 +30,7 @@
   
   <ItemGroup>
     <PackageReference Include="Microsoft.Build.Framework" Version="17.11.4" />
-    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="17.11.4" />
+    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="17.11.48" />
     <PackageReference Update="@(PackageReference)" PrivateAssets="All" />
     <PackageReference Update="Microsoft.VisualStudio.Composition" Version="17.11.13" />
     <PackageReference Update="Microsoft.VisualStudio.Threading" Version="17.11.20" />
